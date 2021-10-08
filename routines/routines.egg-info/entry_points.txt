@@ -1,0 +1,3 @@
+[console_scripts]
+hasher = routines.hs:main
+
