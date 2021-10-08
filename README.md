@@ -3,7 +3,7 @@
 Compute the hash of any file.
 Supported algorithms vary depending on your machine
 
-#Usage
+#Usage\n
 git clone https://github.com/aaxxios/utilities.git
 cd utilities/routines
 python setup.py build && python setup.py install
